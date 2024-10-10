@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kosta-Kai-Ugrina
 - 👀 I’m interested in low-level programming
-- 👀 I’m interested in video game development
+- 👀 I’m interested in network programming
 - 🌱 I’m currently learning Rust
-- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Rust projects
 - 📫 How to reach me kkugrina@gmail.com
 
